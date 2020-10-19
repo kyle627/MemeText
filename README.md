@@ -3,4 +3,6 @@ A small GUI program that allows a user to enter a string of text and have it out
 How to use/download:
 Create a new folder on your desktop, call it 'MemeText'
 Clone the repo into this folder
-Launch: MemeText.jar
+Launch: MemeText.jar / delete rest of contents in the folder. 
+
+Web based version coming soon
